@@ -1,0 +1,13 @@
+cd - change directory
+cd .. - go one level up
+ls - list direcroty files
+rm - remove
+mv - move
+cp - copy
+pwd - current working directory
+-r - do something to all files in the directory
+mkdir - create new directory
+touch - create new file
+git init initilize empy git repository in the working directory
+git remote add origin htttp://....
+git clone https://... - copy directory to the computer
